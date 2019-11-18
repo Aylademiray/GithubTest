@@ -6,10 +6,12 @@ public class Phone {
     public String camera;
      public int price;
 
-    public static void main(String[] args) {
 
+     public void isSmartPhone(){}
+     public void hasMultiCamera(){}
+     public void isWaterProof(){}
 
 
         }
-    }
+
 
