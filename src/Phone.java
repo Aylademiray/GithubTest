@@ -10,7 +10,7 @@ public class Phone {
      public void isSmartPhone(){}
      public void hasMultiCamera(){}
      public void isWaterProof(){}
-
+//
 
         }
 
